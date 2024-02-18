@@ -1,3 +1,9 @@
+
+- Dare to dream
+- Ignite your inspiration and innovation
+- Strive for excellence
+- Explore together & unlock the world's knowledge
+
 # HieroglyphicsGen
 Hieroglyphics generator and validator with GenAI ( Bard AI and OpenAI )  
 
